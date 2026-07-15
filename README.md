@@ -4,7 +4,7 @@ Certifications (Cisco Networking Academy):
 
 - [Security and Connectivity Support](https://www.credly.com/earner/earned/share/56dafdc8-64e0-4ad1-823b-c1521f49678a)
 - Endpoint Security
-- [Industrial IoT and Control Systems in Energy](https://www.credly.com/earner/earned/share/2ceb84df-4360-4255-bed9-66c7d560d0f7)
+- [Industrial IoT and Control Systems in Energy](https://www.credly.com/badges/2ceb84df-4360-4255-bed9-66c7d560d0f7)
 
 
 Projects:
